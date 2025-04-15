@@ -85,7 +85,7 @@ header.shadow .logo{
 .home{
     width: 100%;
     min-height:440px;
-    background: url("../Images/banner.jpg");
+    background: url("../Blog-website/Images/banner.jpg");
     background-size: cover;
     display:grid;
     justify-content: center;
